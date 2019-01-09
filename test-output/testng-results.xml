@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5364" started-at="2018-11-25T09:31:12Z" finished-at="2018-11-25T09:31:18Z">
+    <groups>
+    </groups>
+    <test name="coviamTest" duration-ms="5364" started-at="2018-11-25T09:31:12Z" finished-at="2018-11-25T09:31:18Z">
+      <class name="testCases.coviamTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testCases.coviamTest@8bd1b6a]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2018-11-25T15:01:12Z" finished-at="2018-11-25T15:01:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.coviamTest.validateAddTodo() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateAddTodo()[pri:1, instance:testCases.coviamTest@8bd1b6a]" name="validateAddTodo" duration-ms="4715" started-at="2018-11-25T15:01:12Z" finished-at="2018-11-25T15:01:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddTodo -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:testCases.coviamTest@8bd1b6a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-11-25T15:01:17Z" finished-at="2018-11-25T15:01:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.coviamTest.validateAddTodo() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="validateTodoComplete()[pri:2, instance:testCases.coviamTest@8bd1b6a]" name="validateTodoComplete" duration-ms="206" started-at="2018-11-25T15:01:17Z" finished-at="2018-11-25T15:01:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTodoComplete -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testCases.coviamTest@8bd1b6a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-11-25T15:01:17Z" finished-at="2018-11-25T15:01:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.coviamTest.validateTodoComplete() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:testCases.coviamTest@8bd1b6a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-11-25T15:01:17Z" finished-at="2018-11-25T15:01:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.coviamTest.validateTodoComplete() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testCases.coviamTest@8bd1b6a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-11-25T15:01:17Z" finished-at="2018-11-25T15:01:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.coviamTest.validateDeleteTodoComplete() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateDeleteTodoComplete()[pri:3, instance:testCases.coviamTest@8bd1b6a]" name="validateDeleteTodoComplete" duration-ms="233" started-at="2018-11-25T15:01:17Z" finished-at="2018-11-25T15:01:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeleteTodoComplete -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:testCases.coviamTest@8bd1b6a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-11-25T15:01:18Z" finished-at="2018-11-25T15:01:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.coviamTest.validateDeleteTodoComplete() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testCases.coviamTest@8bd1b6a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-11-25T15:01:18Z" finished-at="2018-11-25T15:01:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.coviamTest.validateClearCompleteTodo() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateClearCompleteTodo()[pri:4, instance:testCases.coviamTest@8bd1b6a]" name="validateClearCompleteTodo" duration-ms="65" started-at="2018-11-25T15:01:18Z" finished-at="2018-11-25T15:01:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClearCompleteTodo -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testCases.coviamTest@8bd1b6a]" name="afterClass" is-config="true" duration-ms="118" started-at="2018-11-25T15:01:18Z" finished-at="2018-11-25T15:01:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:testCases.coviamTest@8bd1b6a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-11-25T15:01:18Z" finished-at="2018-11-25T15:01:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.coviamTest.validateClearCompleteTodo() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testCases.coviamTest -->
+    </test> <!-- coviamTest -->
+  </suite> <!-- Suite -->
+</testng-results>
